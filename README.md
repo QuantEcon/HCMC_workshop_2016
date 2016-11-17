@@ -23,9 +23,9 @@ The level of programming will be introductory.
 
 The workshop will be hands on.  The main instructions are:
 
-#. Please bring your laptop to the workshop.
+1. Please bring your laptop to the workshop.
 
-#. Before coming, please install [Anaconda Python](https://www.continuum.io/downloads).
+2. Before coming, please install [Anaconda Python](https://www.continuum.io/downloads).
 
 (Follow the install instructions for your OS)
 
