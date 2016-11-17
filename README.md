@@ -18,12 +18,16 @@ We assume that participants know some economics but do not know Python.
 The level of programming will be introductory.
 
 
-### Before the Workshop
+### Instructions
 
 
-The workshop will be hands on.  Before coming, please install [Anaconda Python](https://www.continuum.io/downloads).
+The workshop will be hands on.  The main instructions are:
 
-Follow the install instructions for your OS
+#. Please bring your laptop to the workshop.
+
+#. Before coming, please install [Anaconda Python](https://www.continuum.io/downloads).
+
+(Follow the install instructions for your OS)
 
 
 
@@ -33,7 +37,7 @@ Follow the install instructions for your OS
 
 * [Cheat sheet](http://cheatsheets.quantecon.org/)
 
-* [AWS server]  (link to be added)
+* [AWS server]  [link to be added]
 
 
 
