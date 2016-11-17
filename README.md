@@ -8,6 +8,15 @@ Lecturer: [John Stachurski](http://johnstachurski.net/)
 
 Support: [Matthew McKay](https://github.com/mmcky)
 
+Economists are increasingly using modern open source computing environments
+such as [Python](https://www.python.org/) and [Julia](http://julialang.org/).
+
+This workshop will cover the basics of the Python programming language, and
+how you can use it for research and policy analysis in economics.
+
+We assume that participants know some economics but do not know Python.
+The level of programming will be introductory.
+
 
 ### Before the Workshop
 
