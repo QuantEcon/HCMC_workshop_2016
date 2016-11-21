@@ -31,12 +31,15 @@ The workshop will be hands on.  The main instructions are:
 
 
 
+### Notebooks
+
+* 
+
+
 ### Useful Links
 
 * [QuantEcon lectures](http://lectures.quantecon.org/)
-
 * [Cheat sheet](http://cheatsheets.quantecon.org/)
-
 * [AWS server]  [link to be added]
 
 
